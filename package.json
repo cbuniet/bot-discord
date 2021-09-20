@@ -1,0 +1,15 @@
+{
+"name": "DiscordBot",
+"version": "1.0",
+"main": "bot",
+"author": "Elzetia",
+"license": "ISC",
+"dependencies": {
+    "discord.js": "^13.2.0-dev.1632139402.92f6471"
+},
+"scripts": {
+    "start": "node bot.js"
+}
+
+
+}
