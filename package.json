@@ -5,7 +5,7 @@
 "author": "Elzetia",
 "license": "ISC",
 "dependencies": {
-    "discord.js": "^13.2.0-dev.1632139402.92f6471"
+    "discord.js": "^13.0"
 },
 "scripts": {
     "start": "node bot.js"
